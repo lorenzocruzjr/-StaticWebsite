@@ -150,8 +150,9 @@ h2.name {
   text-align: center;
 }
 
-.main-container-team td {
-  text-align: center;
+.container-members p {
+  font-size: 12px;
+  text-decoration: underline;
 }
 
 .home-image {
